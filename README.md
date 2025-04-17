@@ -1,5 +1,5 @@
-# Projeto_Desenvolvimento_Web
-Projeto de desenvolvimento de aplicação da disciplina de Programas de Desenvolvimento WEB (1° Semestre) / 2025
+# Projeto_Clínica web
+Projeto de desenvolvimento de aplicação Digit_clinica 1.0 / 2025
 
 O presente Projeto de aplicação consiste na criação de uma aplicação FullStack na qual permite ao usuário Administrador criar cadastros para médicos bem como suas
 especialidades. Ademais, outra funcionalidade da aplicação permite um Usuário se cadastrar através de Nome e CPF , selecionar o médico e especialidade desejada, escolher
